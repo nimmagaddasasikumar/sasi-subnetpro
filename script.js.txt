@@ -1,5 +1,0 @@
-function calculate() {
-  let cidr = document.getElementById("cidr").value;
-  document.getElementById("output").innerHTML =
-    "Processing CIDR: " + cidr;
-}
